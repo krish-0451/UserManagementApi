@@ -1,0 +1,7 @@
+/Users/krishsuthar/Desktop/Krish/Business/DeepNeural/UserManagementApi/obj/Debug/net7.0/UserManagementApi.csproj.AssemblyReference.cache
+/Users/krishsuthar/Desktop/Krish/Business/DeepNeural/UserManagementApi/obj/Debug/net7.0/UserManagementApi.GeneratedMSBuildEditorConfig.editorconfig
+/Users/krishsuthar/Desktop/Krish/Business/DeepNeural/UserManagementApi/obj/Debug/net7.0/UserManagementApi.AssemblyInfoInputs.cache
+/Users/krishsuthar/Desktop/Krish/Business/DeepNeural/UserManagementApi/obj/Debug/net7.0/UserManagementApi.AssemblyInfo.cs
+/Users/krishsuthar/Desktop/Krish/Business/DeepNeural/UserManagementApi/obj/Debug/net7.0/UserManagementApi.csproj.CoreCompileInputs.cache
+/Users/krishsuthar/Desktop/Krish/Business/DeepNeural/UserManagementApi/obj/Debug/net7.0/UserManagementApi.MvcApplicationPartsAssemblyInfo.cs
+/Users/krishsuthar/Desktop/Krish/Business/DeepNeural/UserManagementApi/obj/Debug/net7.0/UserManagementApi.MvcApplicationPartsAssemblyInfo.cache

@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "A+dtR4Gpl525GLQfLXO/KirPpFaID0J707ENydKpSYSHYpU1Vukei4T9xV56kc5hxscOXDeFWI2xAZ0aE+m+Bg==",
+  "success": true,
+  "projectFilePath": "/Users/krishsuthar/Desktop/Krish/Business/DeepNeural/UserManagementApi/UserManagementApi.csproj",
+  "expectedPackageFiles": [
+    "/Users/krishsuthar/.nuget/packages/microsoft.aspnetcore.openapi/7.0.20/microsoft.aspnetcore.openapi.7.0.20.nupkg.sha512",
+    "/Users/krishsuthar/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "/Users/krishsuthar/.nuget/packages/microsoft.openapi/1.4.3/microsoft.openapi.1.4.3.nupkg.sha512",
+    "/Users/krishsuthar/.nuget/packages/swashbuckle.aspnetcore/6.5.0/swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "/Users/krishsuthar/.nuget/packages/swashbuckle.aspnetcore.swagger/6.5.0/swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "/Users/krishsuthar/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.5.0/swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "/Users/krishsuthar/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.5.0/swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
